@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.guessthenumber;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BullsAndCowsApplication {
+public class GuessTheNumberApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BullsAndCowsApplication.class, args);
+		SpringApplication.run(GuessTheNumberApplication.class, args);
 	}
 
 }
